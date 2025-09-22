@@ -20,7 +20,7 @@ Feb 2024: Honored to receive the 2024 [Albert P. Godsho Engineering Award](https
 
 # Publications
 [**This Time is Different: An Observability Perspective on Time Series Foundation Models**](https://arxiv.org/abs/2505.14766)\
-_Neural Information Processing Systems (NeurIPS), 2025_
+_Neural Information Processing Systems (NeurIPS), 2025_\
 Ben Cohen, Emaad Khwaja, Youssef Doubli, Salahidine Lemaachi, Chris Lettieri, Charles Masson, Hugo Miccinilli, Elise Ramé, Qiqi Ren, Afshin Rostamizadeh, Jean Ogier du Terrail, Anna-Monica Toon, Kan Wang, **Stephan Xie**, Zongzhe Xu, Viktoriya Zhukova, David Asker, Ameet Talwalkar, Othmane Abou-Amal
 
 [**High-Dimensional Prediction for Sequential Decision Making**](https://arxiv.org/abs/2310.17651)\
