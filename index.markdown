@@ -4,32 +4,35 @@
 
 layout: home
 ---
-<img align="right" src="./resources/20250628_081144.jpg" width=200 height=200 style="margin:0px 5px">  
-Hi! I’m Stephan, a second-year PhD student in the [Machine Learning Department](https://ml.cmu.edu) at Carnegie Mellon University advised by [Ameet Talwalkar](https://www.cs.cmu.edu/~atalwalk/), and supported by the NSF GRFP. I'm broadly interested in topics within multimodality, agents, decision-making, and translational impact of ML.
+<img align="right" src="./resources/20250628_081144.jpg" width=400 height=225 style="margin:0px 5px">  
+Hi! I’m Efe, a second-year PhD student in the [Machine Learning Department](https://ml.cmu.edu) at Carnegie Mellon University co-advised by [Barnabás Póczos](https://www.cs.cmu.edu/~bapoczos/) and [Jeff Schneider](https://www.cs.cmu.edu/~schneide/). I'm broadly interested in reinforcement learning, uncertainty, exploration, and AI for scientific discovery.
 
-Previously, I did my undergrad at the University of Pennsylvania [School of Engineering and Applied Sciences](https://www.seas.upenn.edu/) studying Computer Science and Mathematical Economics. At Penn I was fortunate to work with [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) on calibration and learning theory, [Kevin He](https://www.kevinhe.net) on social learning, as well as Yi Xing and Robert Wang at the [Xing Lab](https://xinglab.org/) on computational biology.
+I completed my undergraduate degree at Bilkent University, Turkey, in Electrical and Electronics Engineering. I worked with [Cem Tekin](https://kilyos.ee.bilkent.edu.tr/~cemtekin/) and [Çağın Ararat](https://sites.google.com/view/cararat/about) on bandits and optimization at the [CYBORG Lab](https://cyborg.bilkent.edu.tr/).
 
-In my free time in undergrad I danced, choreographed, and filmed for [Pan-Asian Dance Troupe](https://www.youtube.com/@PanAsianDanceTroupe/videos), and I am a long-time wushu student and enthusiast. I also [compose](https://musescore.com/user/30731574) and play instrumental [music](https://www.youtube.com/playlist?list=PLL7ewZWw3-y07CWUQkstSa4rG5a3kQgFT) (formerly with Penn Chamber), primarily for the piano. 
-
+Apart from research, I'm a drummer (to varying degrees of success) and a big enjoyer of music—mostly classic rock, heavy metal, jazz fusion and progressive rock. I also like to read and think about philosophy, especially philosophy of mind.
 
 # News
-Jun 2025: Started as a Research Intern at Datadog in NYC. \
 Aug 2024: Started my PhD at CMU! \
-Apr 2024: Awarded the [2024 NSF GRFP Fellowship](https://blog.cis.upenn.edu/penn-students-awarded-2024-nsf-grfp/)! \
-Feb 2024: Honored to receive the 2024 [Albert P. Godsho Engineering Award](https://www.cis.upenn.edu/news/awards/)!
+Jun 2024: Received my undergrad degree as the valedictorian! You can listen to my speech (if you know Turkish) from [here](https://www.youtube.com/watch?v=0UV08pOqayw&t=2272s).
 
 # Publications
-[**This Time is Different: An Observability Perspective on Time Series Foundation Models**](https://arxiv.org/abs/2505.14766)\
-_Neural Information Processing Systems (NeurIPS), 2025_\
-Ben Cohen, Emaad Khwaja, Youssef Doubli, Salahidine Lemaachi, Chris Lettieri, Charles Masson, Hugo Miccinilli, Elise Ramé, Qiqi Ren, Afshin Rostamizadeh, Jean Ogier du Terrail, Anna-Monica Toon, Kan Wang, **Stephan Xie**, Zongzhe Xu, Viktoriya Zhukova, David Asker, Ameet Talwalkar, Othmane Abou-Amal
+**Graph Transformer Neural Processes**\
+_under review, 2025_\
+**Efe Mert Karagözlü**, Conor Igoe, Ian Char, Barnabás Póczos, Jeff Schneider
 
-[**High-Dimensional Prediction for Sequential Decision Making**](https://arxiv.org/abs/2310.17651)\
-_International Conference on Machine Learning (ICML), 2025_\
+**LeonArDBO: Fast and Prior-Driven Bayesian Optimization without Surrogate Modeling**\
+_Optimization for Machine Learning Workshop at Advances in Neural Information Processing Systems (NeurIPS), 2025_\
+**Efe Mert Karagözlü**, Conor Igoe, Barnabás Póczos, Jeff Schneider
+
+**Large Language Model-based Bayesian Optimization for Tokamak Stabilization**\
+_Machine Learning for Physical Sciences Workshop at Advances in Neural Information Processing Systems (NeurIPS), 2025_\
+Tejus Gupta, Rohit Sonker, **Efe Mert Karagözlü**, Alexandre Capone, Barnabás Póczos, Jeff Schneider
+
+[**VOPy: A Framework for Black-box Vector Optimization**](https://arxiv.org/abs/2412.06604)\
+_preprint, 2024_\
 **Oral Presentation**\
-Georgy Noarov, Ramya Ramalingam, Aaron Roth, **Stephan Xie**
+Yaşar Cahit Yıldırım, **Efe Mert Karagözlü**, İlter Onat Korkmaz, Çağın Ararat, Cem Tekin
 
-[**ESPRESSO: Robust discovery and quantification of transcript isoforms from error-prone long-read RNA-seq data**](https://www.science.org/doi/10.1126/sciadv.abq5072)  
-_Science Advances, 2023_\
-Yuan Gao, Feng Wang, Robert Wang, Eric Kutschera, Yang Xu, **Stephan Xie**, Yuanyuan Wang, Kathryn E. Kadash-Edmondson, Lan Lin, Yi Xing
-
-
+[**Learning the Pareto Set Under Incomplete Preferences: Pure Exploration in Vector Bandits**](https://proceedings.mlr.press/v238/karagozlu24a.html)\
+_Artificial Intelligence and Statistics (AISTATS), 2024_\
+**Efe Mert Karagözlü**, Yaşar Cahit Yıldırım, Cağın Ararat, Cem Tekin
