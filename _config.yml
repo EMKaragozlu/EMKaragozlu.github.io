@@ -18,12 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Stephan Xie
-email: stephanxie [at] cmu [dot] edu
+repository: EMKaragozlu/EMKaragozlu.github.io
+
+title: Efe Mert Karagozlu
+email: ekaragoz [at] cmu [dot] edu
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://stephofx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: stephofx
-github_username:  stephofx
+url: "https://EMKaragozlu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: em_karagozlu
+github_username:  EMKaragozlu
 
 # Build settings
 
@@ -36,12 +38,12 @@ kramdown:
    math_engine: katex
 
 # Analytics
-google_analytics: G-V9423Q9Q0P
-analytics:
-  provider               : "google-gtag"
-  google:
-    measurement_id          : "G-V9423Q9Q0P"
-    anonymize_ip         : false
+# google_analytics: G-V9423Q9Q0P
+# analytics:
+#   provider               : "google-gtag"
+#   google:
+#     measurement_id          : "G-V9423Q9Q0P"
+#     anonymize_ip         : false
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
