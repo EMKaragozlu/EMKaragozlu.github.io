@@ -37,6 +37,9 @@ markdown: kramdown
 kramdown:
    math_engine: katex
 
+minima:
+  show_excerpts: true
+
 # Analytics
 # google_analytics: G-V9423Q9Q0P
 # analytics:
