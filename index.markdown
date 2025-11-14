@@ -35,4 +35,4 @@ Yaşar Cahit Yıldırım, **Efe Mert Karagözlü**, İlter Onat Korkmaz, Çağı
 
 [**Learning the Pareto Set Under Incomplete Preferences: Pure Exploration in Vector Bandits**](https://proceedings.mlr.press/v238/karagozlu24a.html)\
 _Artificial Intelligence and Statistics (AISTATS), 2024_\
-**Efe Mert Karagözlü**, Yaşar Cahit Yıldırım, Cağın Ararat, Cem Tekin
+**Efe Mert Karagözlü**, Yaşar Cahit Yıldırım, Çağın Ararat, Cem Tekin
