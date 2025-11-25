@@ -30,7 +30,6 @@ Tejus Gupta, Rohit Sonker, **Efe Mert Karagözlü**, Alexandre Capone, Barnabás
 
 [**VOPy: A Framework for Black-box Vector Optimization**](https://arxiv.org/abs/2412.06604)\
 _preprint, 2024_\
-**Oral Presentation**\
 Yaşar Cahit Yıldırım, **Efe Mert Karagözlü**, İlter Onat Korkmaz, Çağın Ararat, Cem Tekin
 
 [**Learning the Pareto Set Under Incomplete Preferences: Pure Exploration in Vector Bandits**](https://proceedings.mlr.press/v238/karagozlu24a.html)\
