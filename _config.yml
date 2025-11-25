@@ -21,6 +21,7 @@
 repository: EMKaragozlu/EMKaragozlu.github.io
 
 title: Efe Mert Karagözlü
+description: ""
 email: ekaragoz [at] cs [dot] cmu [dot] edu
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://EMKaragozlu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
